@@ -328,7 +328,7 @@ function Upload({ user }) {
             <span role="img" aria-label="Microphone">🎙️</span>
           </div>
           <div className="header-text">
-            <span className="header-title">Audio Transcribe</span>
+            <span className="header-title">AI MEDIA ANALYST</span>
             <span className="header-subtitle">Secure, accurate, and fast audio transcription.</span>
           </div>
         </div>
