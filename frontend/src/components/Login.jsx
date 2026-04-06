@@ -51,7 +51,7 @@ function Login() {
             />
           </svg>
         </div>
-        <h1 className="login-title">Audio Transcribe</h1>
+        <h1 className="login-title">AI MEDIA ANALYST</h1>
         <p className="login-subtitle">
           Upload any audio file and get an accurate transcript in seconds.
         </p>
